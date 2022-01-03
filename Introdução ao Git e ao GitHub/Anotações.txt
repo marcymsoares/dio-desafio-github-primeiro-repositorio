@@ -1,0 +1,4 @@
+Link para o dawnload do Git:
+https://git-scm.com/downloads
+
+O Gir Bash é um terminal extendido para otimizar o uso do Git.
